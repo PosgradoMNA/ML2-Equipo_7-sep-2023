@@ -4,7 +4,7 @@
 
 ## Maestría en Inteligencia Artificial Aplicada - Tecnológico de Monterrey
 
-### Este repo contiene los avances correspondientes a la materia de NLP del Equipo 7.
+### Este repo contiene los avances correspondientes a la materia de ML2 del Equipo 7.
 
 Profesor: José Antonio Cantoral Ceballos </br>
 Tutor: Ana Bricia Galindo </br>
