@@ -26,3 +26,5 @@ Yeison Fernando Villamil Franco - A01793803 </br>
     * [Activity 3a: Exploring Word Embeddings with GloVe and Numpy](/Semana_7/TC4033_Activity3a_ID_TEAM_7.ipynb)
     * [Activity 3b: Text Classification using RNNs and AG_NEWS dataset in PyTorch](/Semana_7/TC5033_Activity3b_ID_TEAM_7.ipynb)
     * [Activity 3b: Result of the model with the LIME library](/Semana_7/TC5033_Activity3b_Normaly_print_VS_LIME.png)
+- Semana 9:
+    * [Activity 4: Text Generator](/Semana_9/TC4033_Activity4_TEAM_7.ipynb)
